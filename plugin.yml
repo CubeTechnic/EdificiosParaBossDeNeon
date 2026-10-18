@@ -1,4 +1,4 @@
-name: CubeTechnicNeonArenas
+name: EstructurasParaBossDeCubeTechnicNeon
 version: 1.0.0
 main: com.cubetechnic.neonarena.NeonArenaPlugin
 api-version: '1.21'
