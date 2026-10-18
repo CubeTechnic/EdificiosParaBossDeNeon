@@ -1,0 +1,15 @@
+name: CubeTechnicNeonArenas
+version: 1.0.0
+main: com.cubetechnic.neonarena.NeonArenaPlugin
+api-version: '1.21'
+author: CubeTechnic
+softdepend: [CubeTechnicOrbitFX]
+commands:
+  neonarena:
+    description: Gestiona los estadios de CubeTechnic Neon
+    usage: /neonarena list|generate|unlock|lock
+    permission: neonarena.admin
+permissions:
+  neonarena.admin:
+    description: Administrar y desbloquear estadios Neon
+    default: op

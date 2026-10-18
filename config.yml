@@ -1,0 +1,6 @@
+# Las arenas se generan exclusivamente en CubeTechnic_Neon y siempre sobre la superficie.
+generation-interval-minutes: 15
+arenas-per-cycle: 1
+spawn-radius: 5000
+arenas: []
+unlocked: []
